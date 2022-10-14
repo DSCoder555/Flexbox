@@ -11,7 +11,7 @@ body{
   background-color: lightgrey;
   display: flex;
   flex-direction: row;
-  justify-content: left
+  justify-content: left;
 
 }
 
@@ -25,3 +25,5 @@ body{
   background-color: green;
   border-radius: 50%;
 }
+
+
